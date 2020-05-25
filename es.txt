@@ -1,0 +1,4 @@
+-aggiungere la classe CTime contenente gli attributi "int m,h" e il metodo toString()
+- aggiungere una classe che contiene l'elenco delle date -> nome:CDate che contiene un array di CTime
+-alla classe CViaggio si devono aggiungere gli attributi: CTime durataTotale-> indica la durata di tutto il viaggio, aggiungere anche un'oggetto CDate
+- aggiungere una classe CDateConPosti e aggiungere l'attributo int Posti
