@@ -1,0 +1,4 @@
+1) aggiungi allaclasse CViaggio glia attributi degli aereoporti di partenza e arrivo
+Careoporto partenza,arrivo
+2) aggingere un metodo nella classe CViaggio che cambia l'aereoporto di partenza
+cambiaAereoportoDiPartenza(CAereoporto prova);
